@@ -1,10 +1,82 @@
 [
   {
-    "name": "Name",
-    "image": "/images/some.jpg"
+    "name": "Amaranth",
+    "image": "Amaranth.jpg"
   },
   {
-    "name": "Name2",
-    "image": "/images/some2.jpg"
+    "name": "Avocado",
+    "image": "Avocado.jpg"
+  },
+  {
+    "name": "Barley",
+    "image": "Barley.jpg"
+  },
+  {
+    "name": "Beets",
+    "image": "Beets.png"
+  },
+  {
+    "name": "Cardamom",
+    "image": "Cardamom.jpg"
+  },
+  {
+    "name": "Cassava",
+    "image": "Cassava.jpg"
+  },
+  {
+    "name": "Chickpeas",
+    "image": "Chickpeas.jpg"
+  },
+  {
+    "name": "CornImages",
+    "image": "CornImage.jpg"
+  },
+  {
+    "name": "GreenBeans",
+    "image": "GreenBeans.jpg"
+  },
+  {
+    "name": "KakaduPlum",
+    "image": "KakaduPlum.jpg"
+  },
+  {
+    "name": "Mango",
+    "image": "Mango.jpg"
+  },
+  {
+    "name": "Millet",
+    "image": "Millet.png"
+  },
+  {
+    "name": "MungBeans",
+    "image": "MungBeans.jpg"
+  },
+  {
+    "name": "Okra",
+    "image": "Okra.jpg"
+  },
+  {
+    "name": "Pumpkin",
+    "image": "Pumpkin.png"
+  },
+  {
+    "name": "Rye",
+    "image": "Rye.jpg"
+  },
+  {
+    "name": "Sorghum",
+    "image": "Sorghum.jpg"
+  },
+  {
+    "name": "SweetPotatoes",
+    "image": "SweetPotatoes.jpg"
+  },
+  {
+    "name": "Taro",
+    "image": "Taro.jpg"
+  },
+  {
+    "name": "Turmeric",
+    "image": "Turmeric.jpg"
   }
 ]
