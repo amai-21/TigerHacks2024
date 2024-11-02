@@ -1,10 +1,10 @@
 [
-    {
-      "name": "Name",
-      "image": "/images/some.jpg"
-    },
-    {
-      "name": "Name2",
-      "image": "/images/some2.jpg"
-    },
-}
+  {
+    "name": "Name",
+    "image": "/images/some.jpg"
+  },
+  {
+    "name": "Name2",
+    "image": "/images/some2.jpg"
+  }
+]
