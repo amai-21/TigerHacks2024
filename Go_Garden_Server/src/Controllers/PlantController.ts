@@ -28,7 +28,7 @@ export const PostRecommendationController = async (
       });
       return;
     }
-    const AMOUNT = 5;
+    const AMOUNT = 3;
     const currentDate = new Date().toLocaleDateString();
     let message: string;
 
